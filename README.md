@@ -1,2 +1,2 @@
 # labmisc
-Miscellaneous scripts from the O'Meara lab
+Miscellaneous scripts or other items from the O'Meara lab
